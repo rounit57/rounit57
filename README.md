@@ -49,7 +49,7 @@ Smart mobility system that can be controlled via voice and Indian sign language 
 
 - 🌐 [LinkedIn](https://linkedin.com/in/rounit-agrawal-a9b67018b)
 - 🧪 [GitHub Portfolio](https://github.com/rounit57)
-- 🎥 [Demo Video](https://youtu.be/Wlsy0SmorPY?si=WizZhELfYShhNW-u&t=16)
+
 
 ---
 
